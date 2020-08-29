@@ -5,7 +5,6 @@ def say_hello (name = "Ruby Programmer")
 end
 
 def say_hello ("Kent Beck")
-  puts "Hello #{name}!"
 end
 
 
