@@ -1,7 +1,7 @@
 require_relative './spec_helper'
 
 def say_hello (name = "Kent Beck")
-  puts "Hello #{name}"
+  puts "Hello #{name}!"
 end
 
 describe "say_hello" do
